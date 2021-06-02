@@ -1,0 +1,2 @@
+﻿  HW4.1.cpp
+C:\Users\adnan\Documents\2021\NYU\Practice\HW4.1\HW4.1\HW4.1.cpp(12): error C4700: uninitialized local variable 'count' used

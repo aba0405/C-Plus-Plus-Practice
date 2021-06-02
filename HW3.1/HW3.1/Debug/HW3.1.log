@@ -1,0 +1,2 @@
+﻿  HW3.1.cpp
+C:\Users\adnan\Documents\2021\NYU\Practice\HW3.1\HW3.1\HW3.1.cpp(27): error C4700: uninitialized local variable 'basePrice' used

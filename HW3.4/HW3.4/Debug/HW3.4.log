@@ -1,0 +1,5 @@
+﻿  HW3.4.cpp
+C:\Users\adnan\Documents\2021\NYU\Practice\HW3.4\HW3.4\HW3.4.cpp(28,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\adnan\Documents\2021\NYU\Practice\HW3.4\HW3.4\HW3.4.cpp(32,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\adnan\Documents\2021\NYU\Practice\HW3.4\HW3.4\HW3.4.cpp(36,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  HW3.4.vcxproj -> C:\Users\adnan\Documents\2021\NYU\Practice\HW3.4\Debug\HW3.4.exe
